@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Aku memiliki empat kaki tetapi tidak bisa berjalan. Apakah aku?",
+    "answer": ["meja"]
+  },
+  {
+    "question": "Aku digunakan untuk duduk.",
+    "answer": ["kursi"]
+  },
+  {
+    "question": "Aku digunakan untuk tidur setiap malam.",
+    "answer": ["kasur","tempat tidur"]
+  },
+  {
+    "question": "Aku digunakan untuk menulis dan akan habis jika dipakai terus.",
+    "answer": ["pensil"]
+  },
+  {
+    "question": "Aku digunakan untuk menghapus tulisan pensil.",
+    "answer": ["penghapus"]
+  },
+  {
+    "question": "Aku memiliki layar dan dapat digunakan menelepon.",
+    "answer": ["handphone","hp","ponsel"]
+  },
+  {
+    "question": "Aku memiliki keyboard dan monitor.",
+    "answer": ["komputer","pc"]
+  },
+  {
+    "question": "Aku digunakan untuk menggerakkan kursor.",
+    "answer": ["mouse"]
+  },
+  {
+    "question": "Aku memiliki banyak tombol huruf.",
+    "answer": ["keyboard"]
+  },
+  {
+    "question": "Aku digunakan untuk mencetak dokumen.",
+    "answer": ["printer"]
+  },
+  {
+    "question": "Aku digunakan untuk menyimpan air minum.",
+    "answer": ["botol"]
+  },
+  {
+    "question": "Aku digunakan saat hujan agar tidak kehujanan.",
+    "answer": ["payung"]
+  },
+  {
+    "question": "Aku digunakan untuk melihat bayangan diri.",
+    "answer": ["cermin"]
+  },
+  {
+    "question": "Aku digunakan untuk menerangi ruangan.",
+    "answer": ["lampu"]
+  },
+  {
+    "question": "Aku digunakan untuk membuka pintu yang terkunci.",
+    "answer": ["kunci"]
+  },
+  {
+    "question": "Aku digunakan membawa buku ke sekolah.",
+    "answer": ["tas"]
+  },
+  {
+    "question": "Aku memiliki dua roda dan dikayuh.",
+    "answer": ["sepeda"]
+  },
+  {
+    "question": "Aku digunakan melindungi kepala saat naik motor.",
+    "answer": ["helm"]
+  },
+  {
+    "question": "Aku digunakan menyapu lantai.",
+    "answer": ["sapu"]
+  },
+  {
+    "question": "Aku digunakan mengepel lantai.",
+    "answer": ["pel","alat pel"]
+  },
+  {
+    "question": "Aku digunakan makan nasi.",
+    "answer": ["sendok"]
+  },
+  {
+    "question": "Aku digunakan menusuk makanan.",
+    "answer": ["garpu"]
+  },
+  {
+    "question": "Aku digunakan memotong makanan.",
+    "answer": ["pisau"]
+  },
+  {
+    "question": "Aku digunakan membuka tutup botol.",
+    "answer": ["pembuka botol"]
+  },
+  {
+    "question": "Aku digunakan menyimpan pakaian.",
+    "answer": ["lemari"]
+  },
+    {
+    "question": "Aku digunakan untuk menyimpan makanan agar tetap dingin.",
+    "answer": ["kulkas","lemari es"]
+  },
+  {
+    "question": "Aku digunakan untuk memasak nasi.",
+    "answer": ["rice cooker","magic com","magicom"]
+  },
+  {
+    "question": "Aku digunakan untuk menggoreng makanan.",
+    "answer": ["wajan"]
+  },
+  {
+    "question": "Aku digunakan untuk merebus air.",
+    "answer": ["panci"]
+  },
+  {
+    "question": "Aku digunakan untuk minum.",
+    "answer": ["gelas"]
+  },
+  {
+    "question": "Aku digunakan untuk makan.",
+    "answer": ["piring"]
+  },
+  {
+    "question": "Aku digunakan untuk menyimpan uang.",
+    "answer": ["dompet"]
+  },
+  {
+    "question": "Aku dipakai di kaki saat berjalan.",
+    "answer": ["sepatu"]
+  },
+  {
+    "question": "Aku dipakai agar kaki tetap nyaman di rumah.",
+    "answer": ["sandal"]
+  },
+  {
+    "question": "Aku dipakai untuk mengetahui waktu.",
+    "answer": ["jam","jam tangan"]
+  },
+  {
+    "question": "Aku digunakan untuk mendengarkan musik.",
+    "answer": ["headset","earphone","headphone"]
+  },
+  {
+    "question": "Aku digunakan untuk memotret.",
+    "answer": ["kamera"]
+  },
+  {
+    "question": "Aku memiliki banyak channel dan biasanya ada di ruang tamu.",
+    "answer": ["televisi","tv"]
+  },
+  {
+    "question": "Aku digunakan untuk mengisi daya handphone.",
+    "answer": ["charger"]
+  },
+  {
+    "question": "Aku digunakan untuk menyimpan listrik cadangan bagi HP.",
+    "answer": ["powerbank","power bank"]
+  },
+  {
+    "question": "Aku digunakan untuk menyimpan file di komputer.",
+    "answer": ["flashdisk","flash drive"]
+  },
+  {
+    "question": "Aku memiliki banyak halaman dan dapat dibaca.",
+    "answer": ["buku"]
+  },
+  {
+    "question": "Aku digunakan untuk mencatat pelajaran.",
+    "answer": ["buku tulis"]
+  },
+  {
+    "question": "Aku digunakan untuk menggambar.",
+    "answer": ["krayon","crayon"]
+  },
+  {
+    "question": "Aku digunakan untuk mewarnai gambar.",
+    "answer": ["pensil warna"]
+  },
+  {
+    "question": "Aku digunakan untuk mengukur panjang.",
+    "answer": ["penggaris"]
+  },
+  {
+    "question": "Aku digunakan untuk menjepit kertas.",
+    "answer": ["stapler","hekter"]
+  },
+  {
+    "question": "Aku digunakan untuk melubangi kertas.",
+    "answer": ["pelubang kertas"]
+  },
+  {
+    "question": "Aku digunakan untuk membawa barang saat belanja.",
+    "answer": ["kantong","plastik"]
+  },
+  {
+    "question": "Aku digunakan untuk meniup udara agar ruangan sejuk.",
+    "answer": ["kipas angin"]
+  },
+    {
+    "question": "Aku digunakan untuk mengeringkan rambut setelah mandi.",
+    "answer": ["hair dryer","hairdryer","pengering rambut"]
+  },
+  {
+    "question": "Aku digunakan untuk menyetrika pakaian agar rapi.",
+    "answer": ["setrika"]
+  },
+  {
+    "question": "Aku digunakan untuk mencuci pakaian secara otomatis.",
+    "answer": ["mesin cuci"]
+  },
+  {
+    "question": "Aku digunakan untuk menjahit pakaian.",
+    "answer": ["mesin jahit"]
+  },
+  {
+    "question": "Aku digunakan untuk mengukur suhu tubuh.",
+    "answer": ["termometer"]
+  },
+  {
+    "question": "Aku digunakan dokter untuk mendengarkan detak jantung.",
+    "answer": ["stetoskop"]
+  },
+  {
+    "question": "Aku digunakan untuk melihat benda yang jauh agar tampak dekat.",
+    "answer": ["teropong","binokular","binocular"]
+  },
+  {
+    "question": "Aku digunakan untuk mengambil foto dari udara.",
+    "answer": ["drone"]
+  },
+  {
+    "question": "Aku digunakan untuk membersihkan debu dengan tenaga listrik.",
+    "answer": ["vacuum cleaner","penyedot debu"]
+  },
+  {
+    "question": "Aku digunakan untuk menghaluskan bumbu dapur.",
+    "answer": ["blender"]
+  },
+  {
+    "question": "Aku digunakan untuk memanggang roti.",
+    "answer": ["toaster","pemanggang roti"]
+  },
+  {
+    "question": "Aku digunakan untuk memanaskan makanan dengan cepat menggunakan gelombang mikro.",
+    "answer": ["microwave"]
+  },
+  {
+    "question": "Aku digunakan untuk merekam video.",
+    "answer": ["kamera video","camcorder"]
+  },
+  {
+    "question": "Aku digunakan untuk menghubungkan perangkat ke internet secara nirkabel.",
+    "answer": ["router","wifi router"]
+  },
+  {
+    "question": "Aku digunakan untuk memperkuat sinyal internet di rumah.",
+    "answer": ["modem"]
+  },
+  {
+    "question": "Aku digunakan untuk memainkan video game di televisi.",
+    "answer": ["konsol","game console","playstation","ps"]
+  },
+  {
+    "question": "Aku digunakan untuk mengendalikan permainan pada konsol.",
+    "answer": ["stick","controller","joystick"]
+  },
+  {
+    "question": "Aku memiliki enam senar dan sering dimainkan musisi.",
+    "answer": ["gitar"]
+  },
+  {
+    "question": "Aku dimainkan dengan tuts berwarna hitam dan putih.",
+    "answer": ["piano"]
+  },
+  {
+    "question": "Aku dipukul menggunakan stik untuk menghasilkan irama.",
+    "answer": ["drum"]
+  },
+  {
+    "question": "Aku ditiup dan biasanya terbuat dari bambu.",
+    "answer": ["seruling"]
+  },
+  {
+    "question": "Aku digunakan untuk bermain sepak bola.",
+    "answer": ["bola"]
+  },
+  {
+    "question": "Aku digunakan untuk memukul bola dalam permainan bulu tangkis.",
+    "answer": ["raket","raket badminton"]
+  },
+  {
+    "question": "Aku digunakan pemain baseball untuk memukul bola.",
+    "answer": ["tongkat baseball","bat baseball","bat"]
+  },
+  {
+    "question": "Aku digunakan perenang agar dapat melihat jelas di dalam air.",
+    "answer": ["kacamata renang","goggle","goggles"]
+  },
+    {
+    "question": "Aku digunakan untuk melindungi mata dari sinar matahari.",
+    "answer": ["kacamata hitam","sunglasses"]
+  },
+  {
+    "question": "Aku digunakan untuk melihat lebih jelas bagi orang yang rabun.",
+    "answer": ["kacamata"]
+  },
+  {
+    "question": "Aku digunakan untuk membawa air minum saat berolahraga.",
+    "answer": ["tumbler"]
+  },
+  {
+    "question": "Aku digunakan untuk menimbang berat badan.",
+    "answer": ["timbangan"]
+  },
+  {
+    "question": "Aku digunakan untuk mengukur tekanan darah.",
+    "answer": ["tensimeter"]
+  },
+  {
+    "question": "Aku digunakan untuk menyimpan obat-obatan di rumah.",
+    "answer": ["kotak obat","kotak p3k","p3k"]
+  },
+  {
+    "question": "Aku digunakan untuk menghapus papan tulis.",
+    "answer": ["penghapus papan","hapus papan"]
+  },
+  {
+    "question": "Aku digunakan guru untuk menulis di papan tulis putih.",
+    "answer": ["spidol"]
+  },
+  {
+    "question": "Aku digunakan untuk menulis di papan tulis hitam.",
+    "answer": ["kapur"]
+  },
+  {
+    "question": "Aku digunakan untuk mengikat rambut.",
+    "answer": ["ikat rambut","karet rambut"]
+  },
+  {
+    "question": "Aku digunakan untuk menyisir rambut.",
+    "answer": ["sisir"]
+  },
+  {
+    "question": "Aku digunakan untuk membersihkan gigi.",
+    "answer": ["sikat gigi"]
+  },
+  {
+    "question": "Aku digunakan bersama sikat gigi.",
+    "answer": ["pasta gigi","odol"]
+  },
+  {
+    "question": "Aku digunakan untuk mandi agar tubuh bersih.",
+    "answer": ["sabun"]
+  },
+  {
+    "question": "Aku digunakan untuk keramas.",
+    "answer": ["sampo","shampoo"]
+  },
+  {
+    "question": "Aku digunakan untuk mengeringkan tubuh setelah mandi.",
+    "answer": ["handuk"]
+  },
+  {
+    "question": "Aku digunakan untuk menyimpan sampah.",
+    "answer": ["tempat sampah","tong sampah"]
+  },
+  {
+    "question": "Aku digunakan untuk membersihkan lantai dari debu halus.",
+    "answer": ["vacuum","vacuum cleaner","penyedot debu"]
+  },
+  {
+    "question": "Aku digunakan untuk membuka baut.",
+    "answer": ["obeng"]
+  },
+  {
+    "question": "Aku digunakan untuk memukul paku.",
+    "answer": ["palu"]
+  },
+  {
+    "question": "Aku digunakan untuk mencabut paku.",
+    "answer": ["catut","tang"]
+  },
+  {
+    "question": "Aku digunakan untuk memotong kabel.",
+    "answer": ["tang potong"]
+  },
+  {
+    "question": "Aku digunakan untuk mengukur panjang benda.",
+    "answer": ["meteran"]
+  },
+  {
+    "question": "Aku memiliki empat roda dan digunakan sebagai kendaraan pribadi.",
+    "answer": ["mobil"]
+  },
+  {
+    "question": "Aku memiliki dua roda dan menggunakan bensin.",
+    "answer": ["motor","sepeda motor"]
+  }
+]
