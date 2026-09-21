@@ -611,7 +611,7 @@ let handler = async (m, { conn, args, text }) => {
             view_model: {
                 primitive: {
                     __typename: 'GenAIaeacdsnwHtmlPrimitive',
-                    payload: html,
+                    payload: htmlPayload,
                     trusted_sources: ['lumnztyz.dev']
                 },
                 __typename: 'GenAISingleLayoutViewModel'
@@ -627,8 +627,8 @@ let handler = async (m, { conn, args, text }) => {
         });
 
     } catch (err) {
-        console.error('Gagal menjalankan Block Blast:', err);
-        m.reply('❌ Gagal memuat game Block Blast.');
+        console.error('Gagal menjalankan:', err);
+        m.reply('❌ Gagal memuat game.');
     }
 };
 
