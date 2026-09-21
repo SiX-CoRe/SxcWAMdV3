@@ -40,6 +40,7 @@
     },
     "dependencies": {
         "@adiwajshing/baileys": "npm:baileys@7.0.0-rc.9",
+        "@whiskeysockets/baileys": "latest",
         "@bochilteam/scraper": "^5.0.1",
         "@ibaraki-douji/pixivts": "^2.4.1",
         "@viper-x/fancytext": "^1.0.2",
@@ -98,12 +99,17 @@
         "pino": "^10.1.0",
         "pino-pretty": "^13.1.2",
         "play-sound": "^1.1.6",
+        "playwright": "^1.60.0",
+        "puppeteer": "^24.43.1",
+        "puppeteer-extra": "^3.3.6",
+        "puppeteer-extra-plugin-stealth": "^2.11.2",
         "qrcode": "^1.5.3",
         "sharp": "^0.35.3",
         "similarity": "^1.2.1",
         "simple-git": "3.28.0",
         "socks-proxy-agent": "^10.0.0",
         "syntax-error": "^1.4.0",
+        "skia-canvas": "^3.0.8",
         "undici": "latest",
         "url": "^0.11.0",
         "qrcode": "^1.5.4",
@@ -114,7 +120,8 @@
         "wa-sticker-formatter": "^4.4.4",
         "ws": "^8.13.0",
         "yargs": "^18.0.0",
-        "yt-search": "^2.10.4"
+        "yt-search": "^2.10.4",
+        "ytmusic-api": "^5.3.1"
     },
     "devDependencies": {
         "tsx": "^4.19.1"
