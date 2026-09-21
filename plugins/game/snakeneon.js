@@ -1,4 +1,4 @@
-import { AIRich } from '../messagebuilder.js'; 
+import { AIRich } from './messagebuilder.js'; 
 
 const htmlPayload = String.raw`<style>
 * { -webkit-tap-highlight-color: transparent; -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; box-sizing: border-box; }
