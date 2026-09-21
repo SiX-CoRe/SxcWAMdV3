@@ -23,14 +23,14 @@ function getFileHash(filePath) {
 let handler = async (m, { conn, text, command }) => {
     if (!text) {
         return m.reply(
-            `*Format salah!*\n\nContoh penggunaan:\n.${command} RIN IMUP|111 - 222 - 3333|1,000,000`
+            `*Format salah!*\n\nContoh penggunaan:\n.${command} LUMNZTYZ|111 - 222 - 3333|1,000,000`
         );
     }
 
     const [namaPayload, rekPayload, saldoPayload] = text.split('|');
     if (!namaPayload || !rekPayload || !saldoPayload) {
         return m.reply(
-            `*Format salah!*\n\nPastikan menggunakan pemisah tanda garis (|)\nContoh:\n.${command} RIN IMUP|111 - 222 - 3333|1,000,000`
+            `*Format salah!*\n\nPastikan menggunakan pemisah tanda garis (|)\nContoh:\n.${command} LUMNZTYZ|111 - 222 - 3333|1,000,000`
         );
     }
 
