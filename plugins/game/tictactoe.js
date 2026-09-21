@@ -1,4 +1,4 @@
-import { AIRich } from '../messagebuilder.js';
+import { AIRich } from './messagebuilder.js';
 
 const htmlPayload = String.raw`<!DOCTYPE html>
 <html lang="id">
