@@ -471,8 +471,8 @@ body{
     <div class="brand">
       <div class="avatar">♟️</div>
       <div>
-        <div class="title">SxcWaMd Chess ✨</div>
-        <div class="subtitle">"Waku waku... ayo catur!" ♡</div>
+        <div class="title">Sxcwamd Chess ✨</div>
+        <div class="subtitle">by lumnztyz6x"</div>
       </div>
     </div>
 
